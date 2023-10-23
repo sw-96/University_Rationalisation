@@ -1,11 +1,11 @@
 Nama Siswa,Persentase Skor,Pilihan Universitas Pertama,Pilihan Program Studi Pertama,Nilai Passing Grade,Perbandingan dengan Nilai Anda,Pilihan Universitas Kedua,Pilihan Program Studi Kedua,Nilai Passing Grade,Perbandingan dengan Nilai Anda
-Student_001,70.0,Universitas Indonesia,Teknologi Bioproses,32.03,Memenuhi passing grade,Universitas Indonesia,Teknik Elektro,50.77,Tidak memenuhi passing grade
-Student_002,30.0,Universitas Indonesia,Gizi,30.17,Memenuhi passing grade,Universitas Indonesia,Kesehatan Masyarakat,35.91,Tidak memenuhi passing grade
-Student_003,50.0,Universitas Indonesia,Kesehatan Masyarakat,35.91,Memenuhi passing grade,Universitas Airlangga,Farmasi,49.7,Tidak memenuhi passing grade
-Student_004,35.0,Universitas Airlangga,Pendidikan Dokter,58.61,Memenuhi passing grade,Universitas Airlangga,Kedokteran Hewan,31.2,Tidak memenuhi passing grade
-Student_005,47.6,Universitas Airlangga,Ilmu Keperawatan,38.7,Memenuhi passing grade,Universitas Airlangga,Pendidikan Dokter Gigi,45.3,Tidak memenuhi passing grade
-Student_006,57.0,Universitas Indonesia,Teknik Mesin,45.16,Memenuhi passing grade,Universitas Indonesia,Teknik Perkapalan,36.54,Tidak memenuhi passing grade
-Student_007,62.3,Universitas Airlangga,Pendidikan Dokter,58.61,Memenuhi passing grade,Universitas Indonesia,Sistem Informasi,42.38,Tidak memenuhi passing grade
-Student_008,53.2,Universitas Airlangga,Biologi,34.8,Memenuhi passing grade,Universitas Airlangga,Sistem Informasi,42.8,Tidak memenuhi passing grade
-Student_009,71.5,Universitas Indonesia,Pendidikan Dokter,62.78,Memenuhi passing grade,Universitas Airlangga,Ilmu Keperawatan,38.7,Tidak memenuhi passing grade
+Student_001,70.0,Universitas Indonesia,Teknologi Bioproses,32.03,Memenuhi passing grade,Universitas Indonesia,Teknik Elektro,50.77,Memenuhi passing grade
+Student_002,30.0,Universitas Indonesia,Gizi,30.17,Tidak memenuhi passing grade,Universitas Indonesia,Kesehatan Masyarakat,35.91,Tidak memenuhi passing grade
+Student_003,50.0,Universitas Indonesia,Kesehatan Masyarakat,35.91,Memenuhi passing grade,Universitas Airlangga,Farmasi,49.7,Memenuhi passing grade
+Student_004,35.0,Universitas Airlangga,Pendidikan Dokter,58.61,Tidak memenuhi passing grade,Universitas Airlangga,Kedokteran Hewan,31.2,Memenuhi passing grade
+Student_005,47.6,Universitas Airlangga,Ilmu Keperawatan,38.7,Memenuhi passing grade,Universitas Airlangga,Pendidikan Dokter Gigi,45.3,Memenuhi passing grade
+Student_006,57.0,Universitas Indonesia,Teknik Mesin,45.16,Memenuhi passing grade,Universitas Indonesia,Teknik Perkapalan,36.54,Memenuhi passing grade
+Student_007,62.3,Universitas Airlangga,Pendidikan Dokter,58.61,Memenuhi passing grade,Universitas Indonesia,Sistem Informasi,42.38,Memenuhi passing grade
+Student_008,53.2,Universitas Airlangga,Biologi,34.8,Memenuhi passing grade,Universitas Airlangga,Sistem Informasi,42.8,Memenuhi passing grade
+Student_009,71.5,Universitas Indonesia,Pendidikan Dokter,62.78,Memenuhi passing grade,Universitas Airlangga,Ilmu Keperawatan,38.7,Memenuhi passing grade
 Student_010,66.3,Universitas Airlangga,Farmasi,49.7,Memenuhi passing grade,Universitas Airlangga,Budidaya Perairan,29.8,Memenuhi passing grade
